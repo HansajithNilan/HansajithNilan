@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-But I Like to do more changes!
+But I Like but don't like to do more changes!
 
 Hi Nilan 
 
