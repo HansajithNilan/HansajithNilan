@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 But I Like to do more changes!
 
-Hi Nilan hansajith!
+Hi Nilan 
 
 Hello Nilan
